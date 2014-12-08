@@ -1,0 +1,4 @@
+build_image: tesseradata/cdh5mr2
+
+script:
+  - ls -la ~/
